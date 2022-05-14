@@ -1,0 +1,24 @@
+body
+{
+	padding-top: 50px; 
+    background-image: url('body1.jpg') ;
+    height: 4000px;
+}
+.navbar-nav > li > .dropdown-menu
+ {
+    margin-top: 0;
+ }
+.navbar-brand {
+	font-size: 28px;
+}
+.navbar-nav > ul > .dropdown-menu
+{
+	background:  #dc0505
+}
+.ha
+{
+	color:  #fd0d0d;
+.as
+{
+    margin-bottom:  5px ;
+}

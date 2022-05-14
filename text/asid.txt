@@ -1,0 +1,31 @@
+	  <aside> 
+		<section class="figure">
+			<figure>
+				<img src="E1 (69).jpg" alt="paris" width="200" height="100">
+				<figcaption>paris</figcaption>
+
+			</figure>
+			<time datetime="25-4-2018">25/4/2018</time>
+	
+		</section>
+	 </aside> 
+
+
+
+
+
+
+
+
+aside{
+	float: right;
+	width: 35%;
+	background-color: #b2cfa6;
+padding: 0px;
+margin-top: 30px auto;
+margin-bottom: 10px
+
+} 
+
+
+

@@ -1,0 +1,68 @@
+<div>
+      <!-- Trigger the modal with a button -->
+      <button type="button" class="btn-danger btn-info btn-lg bb" data-toggle="modal" data-target="#myModal1">Open Modal</button>
+
+      <!-- Modal -->
+      <div id="myModal1" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h1 class="modal-title">Xperia XZ2</h1>
+
+            </div>
+            <div class="modal-body">
+                                      <div class="" style="border: 1px solid #000000">
+                                            <div class="col-md-3 col-sm-6 col-xs-6" style="display: inline-block;text-align:center;margin-top: 20px;">
+                                                <img src="mobile\sony\hand-graving-smartphone.png" width="50px" height="50px" />
+                                                <h4 style="font-family: Arimo;height:75px;padding-top:10px">5.7 INCHES</h3>
+                                            </div>
+                                        
+                                            <div class="col-md-3 col-sm-6 col-xs-6" style="display: inline-block;text-align:center;margin-top: 20px;">
+                                                <img src="mobile\sony\photo-camera.png" width="50px" height="50px" />
+                                                <h4 style="font-family: Arimo;height:75px;padding-top:10px">19 MP</h3>
+                                            </div>
+                                        
+                                            <div class="col-md-3 col-sm-6 col-xs-6" style="display: inline-block;text-align:center;margin-top: 20px;">
+                                                <img src="mobile\sony\ram-memory.png" width="50px" height="50px" />
+                                                <h4 style="font-family: Arimo;height:75px;padding-top:10px">4 GB</h3>
+                                            </div>
+                                        
+                                            <div class="col-md-3 col-sm-6 col-xs-6" style="display: inline-block;text-align:center;margin-top: 20px;">
+                                                <img src="mobile\sony\battery.png" width="50px" height="50px" />
+                                                <h4 style="font-family: Arimo;height:75px;padding-top:10px">3180 mAH</h3>
+                                            </div>
+
+                                        <h2 class="aa"> Colors:</h2>
+                                        <ul style="list-style-type: none; display: inline-block; vertical-align: middle">
+                                            
+                                                    <li style="display: inline-block; vertical-align: middle; padding-right: 10px">
+                                                        <input type="submit" name="ctl00$MainCPH$RptColors$ctl00$DeviceColor" value="" id="MainCPH_RptColors_DeviceColor_0" title="Black" style="border-style:None;height:30px;width:30px;background-color:#000000" />
+                                                        <h5 style="display: inline-block; vertical-align: text-bottom; font-weight: bold">Black</h5>
+                                                    </li>
+                                               
+                                                    <li style="display: inline-block; vertical-align: middle; padding-right: 10px">
+                                                        <input type="submit" name="ctl00$MainCPH$RptColors$ctl01$DeviceColor" value="" id="MainCPH_RptColors_DeviceColor_1" title="Silver" style="border-style:None;height:30px;width:30px;background-color:#C0C0C0" />
+                                                        <h5 style="display: inline-block; vertical-align: text-bottom; font-weight: bold">Silver</h5>
+                                                    </li>
+                                        </ul>
+                                  
+                                            <h3 class="aa">price:329,800 SP</h3>
+                                             
+                                            
+                            
+                              <button type="button" class="btn-danger btn-info btn-lg"  data-target="#"><i class="fa fa-database"></i>&nbsp Compare</button>
+                              <button type="button" class="btn-danger btn-info btn-lg"  data-target="#" style="float:right;width:110px"><i class='fa fa-shopping-cart'></i>&nbsp Buy</button>
+                                     
+                         </div>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+
+        </div>
+      </div>
+</div>

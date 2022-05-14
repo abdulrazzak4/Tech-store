@@ -1,0 +1,9 @@
+body
+{
+	padding-top: 70px; 
+    background-image: url('body1.jpg') ;
+}
+.navbar-nav > li > .dropdown-menu
+ {
+    margin-top: 0;
+ }
